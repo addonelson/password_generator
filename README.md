@@ -7,9 +7,20 @@ Provide a short description explaining the what, why, and how of your project. U
 - What did you learn? When working on this project I was able to add multiple skillsets to my tool box. Specifically this project helped me focus on my script.js capabilities.  
 ## Installation
 Attached is a link to the deployed page for easy access. https://addonelson.github.io/password_generator/
-
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text]  (images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-password-generator-index-html-2021-09-10-16_50_29.png)
+## Usage
+    ![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-password-generator-index-html-2021-09-10-16_50_29.png)
     ```
+To utilize the password generator upon the screen loading it will prompt for a password length
+1. Enter a number between 8-->128 and press OK
+2. If you would like UPPERCASE letters in your password, press OK on the next prompt window. If you do not want UPPERCASE letters in your password simply press the CANCEL button.
+3. If you would like lowercase letters in your password, press OK on the next prompt window. If you do not want lowercase letters in your password simply press the CANCEL button.
+4. If you would like numnbers in your password, press OK on the next prompt window. If you do not want numbers in your password simply press the CANCEL button.
+5. If you would like special characters in your password, press OK on the next prompt window. If you do not want special characters in your password simply press the CANCEL button.
+6. After answering all the above prompt questions your password will generate in the text box. Simply copy this new random password to your deisred website. Enjoy!
+## Credits
+I want to give a special shout out to Nicole Pingar for her support in creating this webpage. 
+## Badges
+![badmath]
+(https://img.shields.io/badge/Index-HTML-yellowgreen)
+(https://img.shields.io/badge/Style-CSS-blue)
+(https://img.shields.io/badge/Script-JS-brightgreen)
