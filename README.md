@@ -8,8 +8,7 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Installation
 Attached is a link to the deployed page for easy access. https://addonelson.github.io/password_generator/
 ## Usage
-    ![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-password-generator-index-html-2021-09-10-16_50_29.png)
-    ```
+![alt text](assets/images/screencapture-file-C-Users-14804-OneDrive-Desktop-Penn-8-30-password-generator-index-html-2021-09-10-16_50_29.png)
 To utilize the password generator upon the screen loading it will prompt for a password length
 1. Enter a number between 8-->128 and press OK
 2. If you would like UPPERCASE letters in your password, press OK on the next prompt window. If you do not want UPPERCASE letters in your password simply press the CANCEL button.
@@ -20,7 +19,6 @@ To utilize the password generator upon the screen loading it will prompt for a p
 ## Credits
 I want to give a special shout out to Nicole Pingar for her support in creating this webpage. 
 ## Badges
-![badmath]
-(https://img.shields.io/badge/Index-HTML-yellowgreen)
-(https://img.shields.io/badge/Style-CSS-blue)
-(https://img.shields.io/badge/Script-JS-brightgreen)
+![alt text](https://img.shields.io/badge/Index-HTML-yellowgreen)
+![alt text](https://img.shields.io/badge/Style-CSS-blue)
+![alt text](https://img.shields.io/badge/Script-JS-brightgreen)
